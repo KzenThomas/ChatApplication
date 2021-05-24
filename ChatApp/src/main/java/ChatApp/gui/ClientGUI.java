@@ -141,7 +141,7 @@ public class ClientGUI extends JFrame {
 		this.getContentPane().add(panell, BorderLayout.NORTH);
 		NewConversation.addActionListener(new StartNewConversation());
 
-		messageBox = new JTextField(32);
+		messageBox = new JTextField(30);
 		sendMessage = new JButton("Send Message");
 		sendMessage.setSize(100, 30);
 		chatBox = new JTextArea();
