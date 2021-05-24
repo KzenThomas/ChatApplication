@@ -10,7 +10,7 @@ This is an encrypted chat application where you can send messages to an user or 
 ## software 
 - Java
 - MySql server
-- Spring Boot server
+- Spring Boot 
 
 ## Installation
 1 : clone the repo
